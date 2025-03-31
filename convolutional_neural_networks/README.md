@@ -35,7 +35,7 @@ Here’s the key difference: We see objects, textures, and scenes. Computers see
     - **Grayscale Image:** A 2D grid (like a spreadsheet) where each cell (pixel) has *one* number (0=black, 255=white).
     - **Color Image (RGB):** A 3D grid (like 3 spreadsheets stacked) – Height x Width x 3. Each pixel has *three* numbers representing Red, Green, and Blue intensity.
 
-![what-computer-sees.jpg](./assets/what-computer-sees.jpg)
+![what-computers-see.jpg](./assets/what-computers-see.jpg)
 
 **Why Numbers? Common Vision Tasks:**
 This numerical representation allows machines to perform tasks like:
