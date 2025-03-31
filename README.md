@@ -17,7 +17,7 @@ Think of them as mini-learning moments designed to make the journey into Generat
 
 The bytes are organized into topic-specific folders. Click on a folder/link below to explore the collected bytes for that area:
 
-*   [🧠 Deep Learning Basics](./deep_learning_basics/)
+*   [🧠 Deep Learning Basics](https://github.com/GenAI-Learning-Lab/genai-bytes/tree/main/deeplearning_basics))
 
 ---
 
