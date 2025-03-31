@@ -17,7 +17,7 @@ While our bytes use engaging analogies for quick understanding, the original lec
 Let's dive into the world of CNNs! 😉 With our GenAI Byte Series, we'll explore the core building blocks that empower modern computer vision systems. CNNs have revolutionized how machines process images—enabling breakthroughs from autonomous vehicles to advanced medical diagnostics. Just imagine, a decade ago, image recognition was rudimentary, but today CNNs help computers "see" with astonishing precision! 🤩
 
 
-## 🧠 GenAI Byte #1: Teaching Machines to See! 👀
+## 🧠 GenAI Byte CNN #1: Teaching Machines to See! 👀
 
 👋 Let's kick off our new series on **Computer Vision (CV)** – teaching machines to understand the visual world!
 
