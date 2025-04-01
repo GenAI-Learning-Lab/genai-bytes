@@ -33,6 +33,6 @@ Imagine training a **rookie detective** (a computer) to recognize a "suspect" (a
 **Key Takeaway:**  
 The major challenge in computer vision is handling image variability. We need to move beyond raw pixels and develop models that, like expert detectives, focus on invariant features rather than superficial details.
 
-Next: How do we train these "detective" models to uncover these features? Old techniques vs. Deep Learning approaches! Stay tuned! 🕵️‍♂️
-
 🔗 Watch [this video](https://drive.google.com/file/d/12g7PJAsMFhW78syb5huxS3kuFiUFT4DI/view?usp=sharing) to learn more about image variability and feature extraction.
+
+Next: How do we train these "detective" models to uncover these features? Old techniques vs. Deep Learning approaches! Stay tuned! 🕵️‍♂️
