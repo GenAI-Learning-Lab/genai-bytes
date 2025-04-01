@@ -28,7 +28,7 @@ Imagine training a **rookie detective** (a computer) to recognize a "suspect" (a
     These robust features serve as the **real clues** to identify the "suspect" even when appearances change.
 
 - **Computer Vision's Goal:**  
-  Build models that act like **trained detectives** – capable of extracting invariant, robust features from the "crime scene" (image) to accurately spot the "suspect" (object), despite all these visual disguises. (Inspired by MIT 6.S191!)
+  Build models that act like **trained detectives** – capable of extracting invariant, robust features from the "crime scene" (image) to accurately spot the "suspect" (object), despite all these visual disguises.
 
 **Key Takeaway:**  
 The major challenge in computer vision is handling image variability. We need to move beyond raw pixels and develop models that, like expert detectives, focus on invariant features rather than superficial details.
