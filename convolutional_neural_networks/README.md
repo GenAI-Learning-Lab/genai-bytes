@@ -18,3 +18,4 @@ Let's dive into the world of CNNs! 😉 With our GenAI Byte Series, we'll explor
 
 
 - GenAI Byte #1: [What Computers See](./01_what_computers_see.md)
+- GenAI Byte #2: [Feature Detection is Hard](./02_feature_detection_is_hard.md)
