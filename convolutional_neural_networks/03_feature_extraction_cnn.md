@@ -46,6 +46,6 @@ Crucially, the **same filter** (e.g., the "vertical edge detector") is used acro
 **Key Takeaway:**
 CNNs overcome the limitations of FCNs for images by using **convolutional filters** to process images **locally**. This preserves vital spatial information and allows the network to efficiently learn and detect basic patterns (like edges, corners, textures) across the image.
 
-🔗 Watch this [video](https://drive.google.com/file/d/1-EzM1EKFmdXyEBaf2zBz2egFYwfi4Hze/view?usp=sharing) to learn more about image convolution and feature extraction.
+🔗 Watch this short MIT lecture [video](https://drive.google.com/file/d/1-EzM1EKFmdXyEBaf2zBz2egFYwfi4Hze/view?usp=sharing) to learn more about image convolution and feature extraction.
 
 **Next Up:** What kinds of features do these filters actually learn? And how do layers of convolutions build up complex understanding? Stay tuned! 🤔
