@@ -1,6 +1,6 @@
 🧠 **GenAI Byte CNN #5: The Three Pillars of CNNs: Convolution, Nonlinearity, and Pooling 🔄✨**
 
-**Recap:** In Byte #4, we learned about learned filters and convolution operations. Now, let's explore the three core operations that make CNNs work!
+**Recap & Context:** Byte #4 introduced us to learned filters as the building blocks of CNNs, showing how they act as trainable feature detectors that scan across images. Today's byte reveals that these filters are just one part of a three-piece orchestra that makes CNNs work. Let's explore how convolutions work together with two other critical operations to create a powerful image understanding system.
 
 **The Magic Trio of CNNs 🏗️**
 
