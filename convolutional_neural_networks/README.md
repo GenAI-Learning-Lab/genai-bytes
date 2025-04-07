@@ -21,3 +21,4 @@ Let's dive into the world of CNNs! 😉 With our GenAI Byte Series, we'll explor
 - GenAI Byte #2: [Feature Detection is Hard](./02_feature_detection_is_hard.md)
 - GenAI Byte #3: [Convolution Filters](./03_feature_extraction_cnn.md)
 - GenAI Byte #4: [Learning the Feature Detectors](./04_learned_filters.md)
+- GenAI Byte #5: [The Three Pillars of CNNs](./05_cnn_operations.md)
