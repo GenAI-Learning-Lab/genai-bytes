@@ -55,8 +55,14 @@ But here's the interesting part: this learning process naturally splits into two
 
 2. **Training Considerations:**
    - Models learn exactly what they see
-   - Train on upright faces → struggles with sideways faces
-   - Need diverse training data for robust recognition
+   - Think of it like teaching a child:
+     * Show only upright faces → struggles with tilted faces
+     * Show only front views → confused by side profiles
+     * Show only daytime pics → fails in night scenes
+   - The solution? Diverse training data:
+     * Multiple angles (front, side, tilted)
+     * Various conditions (lighting, distance, background)
+     * Different variations (expressions, accessories)
 
 **Code Sneak Peek! 💻**
 Here's how these two phases look in PyTorch:
