@@ -25,12 +25,6 @@ Just like humans learn to recognize objects, CNNs build their understanding in l
 
 ![06-filter-visualization.jpg](./assets/06-filter-visualization.jpg)
 
-**The Art School Analogy 🖼️**
-Think of a student at art school learning portrait painting:
-- **First Week** = Learning to draw basic lines and shadows
-- **First Month** = Mastering individual features (eyes, nose, mouth)
-- **First Year** = Creating complete, lifelike portraits
-
 But here's the interesting part: this learning process naturally splits into two distinct phases - first learning to see features, then learning to make decisions about what was seen.
 
 **The Two-Phase Process: How CNNs Actually Work 🔄**
@@ -51,17 +45,6 @@ But here's the interesting part: this learning process naturally splits into two
    - Makes the final decision: "I'm 95% sure this is a face!"
 
 ![06-cnn-classification.jpg](./assets/06-cnn-classification.jpg)
-
-**The Factory Analogy: Putting It All Together 🏭**
-Imagine a modern toy factory with two departments:
-- **Quality Control Department** (Feature Extraction)
-   - Inspector 1: Checks basic shapes
-   - Inspector 2: Verifies parts fit together
-   - Inspector 3: Examines complete assemblies
-- **Decision Department** (Classification)
-   - Manager: Reviews all findings
-   - Makes final "Ship/Don't Ship" decision
-   - Includes confidence level in decision
 
 **Important Implementation Notes! 📝**
 1. **Learning from Data:**
