@@ -22,3 +22,4 @@ Let's dive into the world of CNNs! 😉 With our GenAI Byte Series, we'll explor
 - GenAI Byte #3: [Convolution Filters](./03_feature_extraction_cnn.md)
 - GenAI Byte #4: [Learning the Feature Detectors](./04_learned_filters.md)
 - GenAI Byte #5: [The Three Pillars of CNNs](./05_cnn_operations.md)
+- GenAI Byte #6: [The Two Phases of CNNs](./06_two_phase_cnn.md)
