@@ -104,4 +104,6 @@ model = nn.Sequential(
 **Key Takeaway:**
 CNNs mirror human learning: first they learn to see (Feature Extraction), then they learn to decide (Classification). The magic? Both phases work together seamlessly, learning their roles entirely from data! 🎨✨
 
+Watch this short MIT lecture [video](https://drive.google.com/file/d/133qFYRsZpweQzRc2IpB0IdZ1DA05N1we/view?usp=sharing) to learn more about the two phases of CNNs.
+
 **Next Up:** Beyond Classification! 🚀 While we've seen how CNNs handle classification tasks, these networks can do so much more. Get ready to explore object detection, segmentation, and other exciting applications where CNNs shine! From finding taxis in street scenes to helping radiologists with medical diagnoses, the possibilities are endless! 🎯🔍 
