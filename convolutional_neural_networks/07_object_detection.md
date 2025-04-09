@@ -15,6 +15,8 @@ The magic is that we can keep the *same* Feature Extractor (Phase 1) and just sw
 - **Classification:** "Is there a taxi in this image?" (Yes/No or Class Label)
 - **Object Detection:** "*Where* is the taxi in this image, and what is its *exact* boundary?"
 
+![07-object-detection.jpg](./assets/07-object-detection.jpg)
+
 Object detection needs to predict:
 1.  **Class Label:** What is the object (e.g., taxi, person)?
 2.  **Bounding Box:** A rectangle (x, y, width, height) precisely locating the object.
