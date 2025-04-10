@@ -25,4 +25,4 @@ Let's dive into the world of CNNs! 😉 With our GenAI Byte Series, we'll explor
 - GenAI Byte #6: [The Two Phases of CNNs](./06_two_phase_cnn.md)
 - GenAI Byte #7: [Object Detection](./07_object_detection.md)
 - GenAI Byte #8: [Image Segmentation](./08_image_segmentation.md)
-- GenAI Byte #9: [Regression & CNN Summary](./09_regression_summary.md)
+- GenAI Byte #9: [Regression & CNN Summary](./09_autonomous_cnn_summary.md)

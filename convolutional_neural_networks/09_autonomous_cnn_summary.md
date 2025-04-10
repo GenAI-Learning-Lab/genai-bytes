@@ -29,7 +29,7 @@ How can a CNN learn to steer a car?
 - **Feature Extractor:** The student driver learning to spot important cues (lane lines, traffic lights, pedestrians, road curvature).
 - **Regression Head:** Translating those visual cues into a precise steering wheel adjustment.
 
-**Connecting the Dots:** In modern autonomous driving systems, CNNs often perform semantic segmentation first to understand the scene, then use that information (along with other inputs) to make continuous driving decisions (regression) like steering, acceleration, and braking.
+**Connecting the Dots:** In modern autonomous driving systems, CNNs often perform image segmentation first to understand the scene, then use that information (along with other inputs) to make continuous driving decisions (regression) like steering, acceleration, and braking.
 
 **Series Summary: The Magic of CNNs ✨**
 Across these Bytes, we've seen the power and flexibility of CNNs:
@@ -39,7 +39,7 @@ Across these Bytes, we've seen the power and flexibility of CNNs:
 4.  **Versatile Architecture:** The same feature extractor backbone can be paired with different heads for various tasks:
     - **Classification:** Identifying image content (Byte #6).
     - **Object Detection:** Locating and classifying objects (Byte #7).
-    - **Semantic Segmentation:** Classifying every pixel (Byte #8).
+    - **Image Segmentation:** Classifying every pixel (Byte #8).
     - **Regression:** Predicting continuous values (Byte #9).
 
 **The Big Picture:** CNNs provide a powerful, learnable way to extract meaningful information from grid-like data (especially images), forming the foundation for countless modern computer vision applications.
